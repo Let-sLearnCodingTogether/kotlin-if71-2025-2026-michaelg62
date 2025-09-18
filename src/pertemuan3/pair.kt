@@ -1,3 +1,5 @@
+package pertemuan3
+
 fun main() {
     val firstUser : Pair<String, Int> = Pair("User 1", 20)
     println(firstUser.first)
