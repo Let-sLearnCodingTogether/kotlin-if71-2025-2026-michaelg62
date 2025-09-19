@@ -19,10 +19,10 @@ fun main () {
         finalExam =='C' -> println("Ya bisa lulus")
         else ->println("Tidak Lulus")
     }
-    var contoh : Int = 0
+    var contoh : Int = 5
 
     when{
-        (contoh == 0) -> contoh = 10
+        (contoh > 0) -> contoh = 10
     }
     println(contoh)
 }
