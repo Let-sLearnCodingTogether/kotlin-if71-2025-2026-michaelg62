@@ -22,7 +22,7 @@ fun main () {
     var contoh  = 5
 
     when{
-        (contoh > 0) -> contoh = 10
+        (contoh > 0) -> contoh = 13
     }
     println(contoh)
 }
