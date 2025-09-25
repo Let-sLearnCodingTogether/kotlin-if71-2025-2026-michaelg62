@@ -12,6 +12,6 @@ fun main() {
         println("Nama Kamu : $name")
         println("Umur Kamu : $age")
     } else {
-        println("Umur tidak valid")
+        println("Umur tidak Valid")
     }
 }
